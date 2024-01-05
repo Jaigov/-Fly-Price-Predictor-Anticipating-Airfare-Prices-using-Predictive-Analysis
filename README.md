@@ -1,6 +1,6 @@
-# -Fly-Price-Predictor-Anticipating-Airfare-Prices-using-Predictive-Analysis
+# Fly-Price-Predictor-Anticipating-Airfare-Prices-using-Predictive-Analysis
 
-Fly Price Predictor: Anticipating Airfare Prices using Predictive AnalysisFly Price Predictor: Anticipating Airfare Prices using Predictive Analysis
+Fly Price Predictor: Anticipating Airfare Prices using Predictive Analysis
 
 • Led a team of 4 to build predictive flight price models using advanced machine learning algorithms namely Linear Regression, KNN Regressor, Random Forest &amp; XG Boost with a prediction accuracy of above 90% for each model
 • Enhanced the model using fine-tuning and ensemble techniques, achieving an accuracy of 97.6%, enabling data-driven decision-making for airlines in pricing strategies and better cost structure
