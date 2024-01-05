@@ -6,10 +6,7 @@ Fly Price Predictor: Anticipating Airfare Prices using Predictive Analysis
 • Enhanced the model using fine-tuning and ensemble techniques, achieving an accuracy of 97.6%, enabling data-driven decision-making for airlines in pricing strategies and better cost structure
 
 Collaborators: 
-Aishwarya Jayant Rauthan
-Jaishankar Govindaraj
-Jasmine Gohil
-Mahika Bhartari
+Aishwarya Jayant Rauthan, Jaishankar Govindaraj, Jasmine Gohil, Mahika Bhartari
 
 Data Source:
 Easemytrip is an internet platform for booking flight tickets, serving as a gateway for potential passengers to purchase tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers. (link - https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
